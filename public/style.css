@@ -1,0 +1,5 @@
+body{
+  margin-top: 10%;
+  background-color: lime; /* For browsers that do not support gradients */
+  /* background-image: repeating-radial-gradient(red, yellow 10%, green 15%); */
+}
